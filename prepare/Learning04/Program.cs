@@ -1,19 +1,9 @@
-using System;
-
 class Program
 {
     static void Main(string[] args)
     {
-
-        Assignment assignment = new Assignment("John Doe", "Mathematics");
-
-
-        string summary = assignment.GetSummary();
-
-
-        Console.WriteLine(summary);
-
+        WritingAssignment writingAssignment = new WritingAssignment("Mary Waters", "European History", "Causes of World War II", "Mary Waters");
+        Console.WriteLine(writingAssignment.GetSummary());
+        Console.WriteLine(writingAssignment.GetWritingInformation());
     }
-
-
 }
