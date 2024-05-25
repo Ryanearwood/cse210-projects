@@ -1,0 +1,6 @@
+15
+Check List Goal:; Test; This Is Only A Test; 5; False; 3; 50; 1
+Check List Goal:; Read more books; Finish a book every month; 10; False; 4; 100; 2
+Simple Goal:; Study; Study more than 2 hours; 10; False
+Simple Goal:; Read scripture; Read more than 2 chapters; 50; False
+Negative Goal:; Stop Drinking soda; No more soda; -10; False

@@ -1,0 +1,8 @@
+10
+Simple Goal:; Study; Study more than 2 hours; 10; True
+Simple Goal:; Read scripture; Read more than 2 chapters; 10; True
+Eternal Goal:; Read scripture with wife; Read more than 2 chapters with wife; 50; False
+Check List Goal:; Go to Temple with wife; Go to temple weekly with wife; 50; False; 52; 500; 4
+Eternal Goal:; Read a conference talk; Read a conference talk daily; 5; False
+Check List Goal:; Read a book; Read a book each month; 100; False; 12; 500; 5
+Check List Goal:; Exercise; Exercise daily; 10; True; 4; 100; 4
